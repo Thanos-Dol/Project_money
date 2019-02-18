@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #define day_std 30
-
 /*
 void setright(FILE *file) {
 
